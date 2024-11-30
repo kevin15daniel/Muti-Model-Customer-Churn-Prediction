@@ -1,4 +1,5 @@
-# Customer-Churn-Prediction
+# Customer Churn Prediction
+
 A 'Customer Churn Prediction' is a project where I developed and deployed a machine learning model to predict customer churn in a subscription-based business. Leveraging advanced techniques and algorithms, I achieved accurate predictions (84.5%) to identify customers at risk of churning, enabling proactive retention strategies.
 
 More Info:
